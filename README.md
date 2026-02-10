@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Это мои первые шаги.
 <!--
 **PetrLevchenko/PetrLevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
